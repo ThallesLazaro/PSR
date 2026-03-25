@@ -2,7 +2,7 @@
 
 PSR+ is the evolution of the traditional Windows Steps Recorder, with Smart Capture, Enhanced Comments, Simplified Export and Intuitive Interface
 
-Download PSR+ 👉 [PSR+ Download](https://blog.psrplus.com/p/download.html)
+Download PSR+ https://gravador.net/t2699
 
 ![Texto Alternativo](https://raw.githubusercontent.com/ThallesLazaro/PSR/refs/heads/main/1.png)
 
